@@ -2,3 +2,5 @@
 Development of a biding web application between users using Laravel8 in BackEnd, HTML CSS JAVASCRIPT with aTemplate in Front-end and PhpMyAdmin(MySQL) for the Database.
 Technologies : Laravel8, AjaxJs, HTML, CSS , Bootstrap.
 
+Your can find SQL DB in DB directory for importing tables and mock data . 
+
